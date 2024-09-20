@@ -10,7 +10,7 @@
 
 **Høgskulen på Vestlandet (HVL)**  
 _Bachelor i Dataingeniør, 2023 - Nåværende_  
-- Fokus på programmering, databaser, nettverk og skyteknologi.
+- Fokus på programmering, databaser, nettverk og maskinlære.
 - Relevant kursarbeid: Algoritmer og datastrukturer, Databaser, Operativsystemer.
 - Prosjektarbeid: Utvikling av en webapplikasjon i et team på fire, inkludert frontend og backend med moderne teknologier.
 
