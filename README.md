@@ -1,15 +1,8 @@
-# Navn på Kandidat
+# Christoffer Toftevåg
 
 **Studieprogram:** Dataingeniør, Høgskulen på Vestlandet (HVL)  
-**E-post:** kandidat@email.com  
-**LinkedIn:** [linkedin.com/in/kandidat](https://linkedin.com/in/kandidat)  
-**GitHub:** [github.com/kandidat](https://github.com/kandidat)
-
----
-
-## Om meg
-
-Jeg er en engasjert og læringsvillig dataingeniørstudent i tredje semester ved Høgskulen på Vestlandet (HVL). Jeg er spesielt interessert i utvikling av programvare og teknologiske løsninger som løser konkrete problemer. Jeg er ute etter sommerjobb for å videreutvikle mine tekniske ferdigheter og bidra til spennende prosjekter.
+**E-post:** ctoftevaag@gmail.com  
+**GitHub:** [github.com/chritof](https://github.com/chritof)
 
 ---
 
