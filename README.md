@@ -14,6 +14,10 @@ _Bachelor i Dataingeniør, 2023 - Nåværende_
 - Relevant kursarbeid: Algoritmer og datastrukturer, Databaser, Operativsystemer.
 - Prosjektarbeid: Utvikling av en webapplikasjon i et team på fire, inkludert frontend og backend med moderne teknologier.
 
-![chritof's github stats](https://readme-stats-iota-pied.vercel.app/api?username=chritof&count_private=true&show_icons=true&theme=tokyonight)
+---
+
+## GitHub Statistikk
+
+![Christoffer's GitHub Stats](https://readme-stats-iota-pied.vercel.app/api?username=chritof&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=issues,contribs&custom_title=Christoffer%20Toftevåg's%20GitHub%20Stats)
 
 
