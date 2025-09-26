@@ -17,8 +17,8 @@ _Bachelor i Dataingeniør (2023 – Nåværende)_
 ---
 
 ## 🚀 Teknologier & Ferdigheter
-- **Programmering:** Java, JavaScript, Python
-- **Webutvikling:** Spring Boot, React, HTML, CSS  
+- **Programmering:** Java, JavaScript, TypeScript, Python
+- **Webutvikling:** Spring Boot, React, HTML, CSS, Tailwind
 - **Databaser:** PostgreSQL, MySQL  
 - **Verktøy:** Git, Linux, (Docker, postman)
 
