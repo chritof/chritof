@@ -12,7 +12,7 @@ _Bachelor i Dataingeniør (2023 – Nåværende)_
 
 - Fordypning i programmering, maskinlære og kunstig intelligens  
 - Relevante kurs: Algoritmer og datastrukturer, Databaser, Operativsystemer, Videregående webapplikasjoner, Maskinlæring og videregående algoritmer
-- Prosjekter: Utvikling av en fullstack webapplikasjon i et team på fire, inkludert både frontend og backend med moderne teknologier  
+- Prosjekter: Utvikling av en fullstack webapplikasjon i et team på sju, inkludert både frontend og backend med moderne teknologier  
 
 ---
 
