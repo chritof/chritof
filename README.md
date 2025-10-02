@@ -20,7 +20,7 @@ _Bachelor i Dataingeniør (2023 – Nåværende)_
 - **Programmering:** Java, JavaScript, TypeScript, Python
 - **Webutvikling:** Spring Boot, React, HTML, CSS, Tailwind
 - **Databaser:** PostgreSQL, MySQL  
-- **Verktøy:** Git, Linux, (Docker, postman)
+- **Verktøy:** Git, Linux, Postman, (Docker)
 
 ---
 
