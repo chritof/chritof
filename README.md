@@ -1,7 +1,7 @@
 # 👨‍💻 Christoffer Toftevåg
 
 **Studieprogram:** Dataingeniør, Høgskulen på Vestlandet (HVL)  
-**E-post:** [ctoftevaag@gmail.com](mailto:ctoftevaag@gmail.com)  
+**E-post:** [chrtof13@gmail.com](mailto:chrtof13@gmail.com)  
 **GitHub:** [github.com/chritof](https://github.com/chritof)
 
 ---
